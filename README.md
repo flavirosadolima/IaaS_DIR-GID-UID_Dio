@@ -1,0 +1,1 @@
+Este repositório contém parâmetros marcados para atender à entrega da DIO. Trata-se de um simples script criando diretórios, grupos e usuários, além de atribuir aos usuários o permissionamento aos diretórios a partir de seus grupos.
